@@ -35,3 +35,4 @@ Estou construindo meu portfólio com projetos acadêmicos e pessoais, buscando m
 - LinkedIn: https://www.linkedin.com/in/enzo-sgarbossa-80514527a/
 - GitHub: https://github.com/esgarbossa
 - Email: enzosgarbossa09@gmail.com
+- WhatApp: +55 54 996910566
