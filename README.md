@@ -16,9 +16,6 @@ Atualmente estou estudando e praticando:
 ### Cadastro de Atletas e Times
 Sistema simples em Java para cadastro de atletas e times, desenvolvido para praticar programação orientada a objetos, listas, menus com `switch` e organização básica de código.
 
-### Liga de Algoritmos
-Repositório com exercícios e desafios de lógica desenvolvidos em Java durante a Liga de Algoritmos da PUCRS.
-
 ### Clone Kabum
 Projeto acadêmico inspirado em um e-commerce, feito para praticar desenvolvimento em equipe, organização de código e conceitos de engenharia de software.
 
@@ -33,5 +30,4 @@ Estou construindo meu portfólio com projetos acadêmicos e pessoais, buscando m
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/enzo-sgarbossa-80514527a/
-- GitHub: https://github.com/esgarbossa
 - Email: enzosgarbossa09@gmail.com
