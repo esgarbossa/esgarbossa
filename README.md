@@ -13,9 +13,6 @@ Atualmente estou estudando e praticando:
 
 ## 🚀 Projetos em destaque
 
-### Cadastro de Atletas e Times
-Sistema simples em Java para cadastro de atletas e times, desenvolvido para praticar programação orientada a objetos, listas, menus com `switch` e organização básica de código.
-
 ### Clone Kabum
 Projeto acadêmico inspirado em um e-commerce, feito para praticar desenvolvimento em equipe, organização de código e conceitos de engenharia de software.
 
